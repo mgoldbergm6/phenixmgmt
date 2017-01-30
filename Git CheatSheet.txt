@@ -1,0 +1,9 @@
+cd Desktop
+cd GIT
+cd html
+cd mike
+git pull
+git status
+git add .
+git commit -am "push #exporttocert"
+git push origin master
